@@ -1,0 +1,31 @@
+p {
+    display: inline;
+    font-family: 'roboto';
+    background-color:rgb(200, 218, 218);
+    margin-left: 43.2%;
+  }
+  .title{
+    background-color: #dbcccccb;
+    color: #ca0404cb;
+    outline-style: dashed;
+    outline-color: rgb(116, 30, 197);
+  }
+
+.img {
+    position: relative;
+    margin-right: 43.2%;
+    margin-left: -3.5%;
+     }
+    
+input:hover {
+    appearance: password;
+    color: gold;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: brown;
+}
